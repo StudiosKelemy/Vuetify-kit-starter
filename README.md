@@ -1,4 +1,4 @@
-# stockfromafrica-app-v1.0.0
+# Vuetify Starter Kit
 
 ## Project setup
 ```
@@ -19,6 +19,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
